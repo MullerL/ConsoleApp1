@@ -1,0 +1,3 @@
+Criaria web apis rest com mvc e Entity Framework em c#, que se comunicariam com os bancos de dados necessarios para trazer as informações para facilitar a comunicação entre os diferentes tipos de sistemas.
+Com relação ao legado teria que ser criado uma forma de comunicação para a interação com as novas web apis ja que reescrever todo o legado em uma nova tecnologia seria inviavel
+A implentação desse cenario exigiria a presença de uma equipe com conhecimento nessas tecnologias abordadas
